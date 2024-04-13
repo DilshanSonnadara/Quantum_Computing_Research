@@ -54,6 +54,10 @@ cover/
 #Ignore all xlsx files
 *.xlsx
 
+#Ignore all xlsx images
+*.png
+
+
 # Translations
 *.mo
 *.pot
